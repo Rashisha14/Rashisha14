@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/Rashisha14"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/mohammed-rashidm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/Rashi_sha/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="mailto:rashid.mhd2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
@@ -13,7 +14,7 @@
 💻 Passionate **Software Developer** skilled in **C, Java, Python, MERN stack, PostgreSQL, and AI/ML**.  
 🎯 Interested in building **scalable apps**, **intuitive UI/UX**, and **AI-powered solutions**.  
 📍 Based in **Kerala, India**.  
-🌱 Currently sharpening my skills in **Full-Stack Development & Cloud Computing**.  
+🌱 Currently sharpening my skills in **Full-Stack Development , AI-ML & Cloud Computing**.  
 
 ---
 
@@ -49,12 +50,13 @@
 
 ## 📌 Featured Projects  
 
-- 🆘 **[ResQ](https://github.com/aims0426/ResQConnect)** – Disaster relief app connecting people with nearby volunteers in real-time.  
-- 💳 **[Campus Cash](https://github.com/AgZ47/CampusCash)** – Cashless campus payment system with dues added to college fees.  
-- 🚌 **[Where Is My Bus](https://github.com/JomalSanish/WhereIsMyBus)** – Real-time bus tracking for students & parents.  
 - 🎬 **[Film Censorship Automation (F-CAS)](https://github.com/Rashisha14/F-CAS)** – AI-powered system for film censorship automation.  
 - 🎁 **[KindKart](https://github.com/Rashisha14/KindKart)** – Donation app connecting donors with shelters & NGOs.  
 - ❓ **[Quizzes](https://github.com/Rashisha14/Quizzes)** – Interactive quiz platform with real-time competition.  
+- 🆘 **[ResQ](https://github.com/aims0426/ResQConnect)** – Disaster relief app connecting people with nearby volunteers in real-time.  
+- 💳 **[Campus Cash](https://github.com/AgZ47/CampusCash)** – Cashless campus payment system with dues added to college fees.  
+- 🚌 **[Where Is My Bus](https://github.com/JomalSanish/WhereIsMyBus)** – Real-time bus tracking for students & parents.  
+
 
 ---
 
