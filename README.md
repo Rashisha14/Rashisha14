@@ -11,6 +11,12 @@
 
 ## 🚀 About Me  
 
+I am a passionate and versatile software developer with a strong foundation in C, Java, and web design. My expertise
+extends to the MERN stack (MongoDB, Express.js, React, Node.js), allowing me to create dynamic, full-stack web
+applications. I also have a keen interest in AI and Machine Learning, where I apply cutting-edge technologies to solve
+complex problems. My proficiency in Figma enables me to design intuitive user interfaces that enhance user
+experience.
+
 💻 Passionate **Software Developer** skilled in **C, Java, Python, MERN stack, PostgreSQL, and AI/ML**.  
 🎯 Interested in building **scalable apps**, **intuitive UI/UX**, and **AI-powered solutions**.  
 📍 Based in **Kerala, India**.  
