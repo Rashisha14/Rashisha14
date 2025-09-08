@@ -17,6 +17,8 @@ applications. I also have a keen interest in AI and Machine Learning, where I ap
 complex problems. My proficiency in Figma enables me to design intuitive user interfaces that enhance user
 experience.
 
+
+
 💻 Passionate **Software Developer** skilled in **C, Java, Python, MERN stack, PostgreSQL, and AI/ML**.  
 🎯 Interested in building **scalable apps**, **intuitive UI/UX**, and **AI-powered solutions**.  
 📍 Based in **Kerala, India**.  
