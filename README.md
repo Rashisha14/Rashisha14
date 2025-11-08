@@ -59,7 +59,7 @@ experience.
 ---
 
 ## 📌 Featured Projects  
-
+- 🎓 **[IntelliPlace](https://github.com/Rashisha14/IntelliPlace)** – AI-powered Placement Drive automation.
 - 🎬 **[Film Censorship Automation (F-CAS)](https://github.com/Rashisha14/F-CAS)** – AI-powered system for film censorship automation.  
 - 🎁 **[KindKart](https://github.com/Rashisha14/KindKart)** – Donation app connecting donors with shelters & NGOs.  
 - ❓ **[Quizzes](https://github.com/Rashisha14/Quizzes)** – Interactive quiz platform with real-time competition.  
